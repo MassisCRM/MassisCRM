@@ -1,0 +1,13 @@
+{
+  "name": "MassisCRM",
+  "version": "1.0.0",
+  "description": "CRM com integração WhatsApp via Venom Bot - projeto de Tiago Massis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "venom-bot": "^4.0.0"
+  }
+}
